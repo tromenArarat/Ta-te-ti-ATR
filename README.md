@@ -1,6 +1,6 @@
 # Ta-te-ti-ATR
 Versión del ta-te-ti creada en el CPEM N°80 de Chos Malal. Idea original de llevar a código: Miguel Esteban Manoukian
-<!DOCTYPE html>
+[<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -267,4 +267,4 @@ Versión del ta-te-ti creada en el CPEM N°80 de Chos Malal. Idea original de ll
         }
     </script>
 </body>
-</html>
+</html>](https://github.com/tromenArarat/ITChangas/tree/main/TATETI%20ATR)https://github.com/tromenArarat/ITChangas/tree/main/TATETI%20ATR
